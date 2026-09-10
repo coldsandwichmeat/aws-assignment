@@ -1,7 +1,7 @@
 <?php
 $host = 'shuttle-db-instance.cdvujfenzipi.us-east-1.rds.amazonaws.com';
 $user = 'admin';
-$password = 'Tarumt2026Pass!';
+$password = 'iloveaws';
 $dbname = 'shuttle_db';
 
 $conn = new mysqli($host, $user, $password, $dbname);
