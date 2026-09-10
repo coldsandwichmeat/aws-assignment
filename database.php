@@ -1,5 +1,5 @@
 <?php
-$host = 'shuttle-db-instance.cxahvxc84ilj.us-east-1.rds.amazonaws.com';
+$host = 'shuttle-db-instance.cdvujfenzipi.us-east-1.rds.amazonaws.com';
 $user = 'admin';
 $password = 'Tarumt2026Pass!';
 $dbname = 'shuttle_db';
